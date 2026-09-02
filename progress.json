@@ -87,5 +87,14 @@
       "You should be ignoring the rest of many/* except many/file22.txt!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1788324393.94952,
+    "completed_at": 1788324403.62998,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
